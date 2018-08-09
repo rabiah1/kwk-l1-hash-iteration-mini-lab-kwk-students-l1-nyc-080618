@@ -4,7 +4,6 @@ summer_olympics[:Atlanta] = "1996"
  puts summer_olympics
 
 
-
 summer_olympics.each do |place, year|
  puts "The #{place} summer olympics took place in #{year}."
 end
